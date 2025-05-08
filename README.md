@@ -23,7 +23,7 @@ This project is a text mining analysis of customer reviews for Mega Boutique Hot
 ## 📁 Folder Structure
 - `data/` – contains the scraped dataset (`Data_Scrapping_Traveloka_Hotel_Bali.csv`)
 - `notebook/` – contains the main analysis notebook (`scraping_textmining.ipynb`)
-- `output/` – contains visual outputs: word cloud (`word_cloud.png`), charts (`aspect_rating.png`, `sentiment_distribution.png`, 'ABSA_distribution.png'), and infographic (`infographic.png`)
+- `output/` – contains visual outputs: word cloud (`word_cloud.png`), charts (`aspect_rating.png`, `sentiment_distribution.png`, `ABSA_distribution.png`), and infographic (`infographic.png`)
 - `README.md` – this project documentation
 
 ## 🔗 Google Colab Link
