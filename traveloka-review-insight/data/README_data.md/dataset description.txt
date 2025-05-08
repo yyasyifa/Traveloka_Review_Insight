@@ -1,0 +1,1 @@
+This dataset contains scraped review data from Mega Boutique Hotel & Spa on Traveloka as of April 2025. For educational use only.
