@@ -30,7 +30,7 @@ This project is a text mining analysis of customer reviews for Mega Boutique Hot
 [🔗 View Full Analysis on Google Colab](https://colab.research.google.com/drive/1Tg40FpmIUmiWtKV1AxrS9w1Nt25bC_TA?usp=sharing)
 
 ## 🖼️ Infographic Preview
-![Infographic](output/infographic.png)
+![Infographic](output/infographic)
 
 ## 👤 Author
 **Yolanda Yasyifa** – Undergraduate Student in Statistics, Universitas Riau  
