@@ -34,4 +34,4 @@ This project is a text mining analysis of customer reviews for Mega Boutique Hot
 
 ## 👤 Author
 **Yolanda Yasyifa** – Undergraduate Student in Statistics, Universitas Riau  
-📧 yolanda.yasyifa2219@student.unri.ac.id | 🌐 [LinkedIn](https://www.linkedin.com/in/yolanda-yasyifa-5210ba2a4/)
+📧 yolanda.yasyifa2219@student.unri.ac.id | 🌐 [LinkedIn](https://www.linkedin.com/in/yolanda-yasyifa-statistika/)
